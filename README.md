@@ -71,6 +71,6 @@ When you take a look at the scores by spending, by school size, and by school ty
 ![Image](Resources/type_summary1.PNG)            ![Image](Resources/type_summary2.PNG)
 
 ### Summary 
-Overall, at the district level the academic dishonesty in the 9th grade class at Thomas High School caused next to no changes when considering the scores by the larger metrics. At the school level, Thomas stayed the same rank compared to other schools, but did drop in overall passing rate, drop in math passing rate, and drop in reading passing rate. If we leave zeroes rather than nulls in the scoring, then Thomas's overall passing rate plummets. 
+Overall, at the district level the academic dishonesty in the 9th grade class at Thomas High School caused next to no changes when considering the scores by the larger metrics. At the school level, Thomas stayed the same rank compared to other schools, but did drop in overall passing rate, drop in math passing rate, and drop in reading passing rate, all around ~1 to ~3 tenths of a percentage point. If we leave zeroes rather than nulls in the scoring, then Thomas's overall passing rate plummets. 
 
     
