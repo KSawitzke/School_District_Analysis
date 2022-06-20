@@ -31,9 +31,9 @@ In the first look at the by school level summary, the scores for THS are very lo
 
 ![Image](Resources/School_summary1.PNG)
 
-Instead, if we compare the school summaries to before the grades are invalidated, we see the following two images, first being with the invalidated but not zeroed out grades, second with the THS 9th graders removed completely.
+Instead, if we compare the school summaries to before the grades are invalidated, we see the following two images, first being with the invalidated but not zeroed out grades, second with the THS 9th graders removed completely. As you can see, the change is less overall when viewed in this way.
 
-
+![Image](Resources/School_summary1.5.PNG)
 
 ![Image](Resources/School_summary2.PNG)
 
@@ -41,6 +41,10 @@ For the remainder of the results, we will compare the THS scores from before the
 
 ### Relative Position
 
+THS Dropped in overall passing % rate when the 9th graders are removed, but their ranking relatively amongst other schools stayed the same.
+
+![Image](Resources/top_summary1.PNG)
+![Image](Resources/top_summary2.PNG)
 
 ### Other Metrics
 
@@ -54,3 +58,19 @@ In both the math and reading scores by grade, there were no changes to any categ
 #### Reading Scores by Grade
 ![Image](Resources/reading_grade1.PNG)                ![Image](Resources/reading_grade2.PNG)
 
+
+When you take a look at the scores by spending, by school size, and by school type, there are no changes seen at all when rounded to the level requested by Maria and the school district.
+
+#### Scores by School Spending per Student
+![Image](Resources/spending_summary1.PNG)       ![Image](Resources/spending_summary2.PNG)
+
+#### Scores by School Size
+![Image](Resources/size_summary1.PNG)            ![Image](Resources/size_summary2.PNG)
+
+#### Scores by School Type
+![Image](Resources/type_summary1.PNG)            ![Image](Resources/type_summary2.PNG)
+
+### Summary 
+Overall, at the district level the academic dishonesty in the 9th grade class at Thomas High School caused next to no changes when considering the scores by the larger metrics. At the school level, Thomas stayed the same rank compared to other schools, but did drop in overall passing rate, drop in math passing rate, and drop in reading passing rate. If we leave zeroes rather than nulls in the scoring, then Thomas's overall passing rate plummets. 
+
+    
